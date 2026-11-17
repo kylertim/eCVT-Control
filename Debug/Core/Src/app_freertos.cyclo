@@ -1,0 +1,6 @@
+../Core/Src/app_freertos.c:107:6:MX_FREERTOS_Init	1
+../Core/Src/app_freertos.c:162:6:StartDefaultTask	1
+../Core/Src/app_freertos.c:181:6:StartYellowTask	1
+../Core/Src/app_freertos.c:200:6:StartRPMTask	2
+../Core/Src/app_freertos.c:230:6:StartGearTask	14
+../Core/Src/app_freertos.c:345:6:StartMotorTask	3
